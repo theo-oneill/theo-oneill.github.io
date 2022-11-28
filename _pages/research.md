@@ -7,6 +7,8 @@ author_profile: true
 #  - /resume
 ---
 
+<!--<hr style = 'background-color:#CCCAC9  ; border-width:0; color:#CCCAC9; height:1px; width:100%;' />
+
 ## Mapping the Local Bubble's Magnetic Field in 3D
 <sup> <i>Advisor:  Dr. Alyssa Goodman <br> Harvard-Smithsonian Astrophysical Observatory REU Program </i> </sup> 
 
