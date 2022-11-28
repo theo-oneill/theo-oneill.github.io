@@ -7,12 +7,12 @@ author_profile: true
 #  - /resume
 ---
 
-## Magnetic Fields on the Surface of the Local Bubble
+## Mapping the Local Bubble's Magnetic Field in 3D
 <sup> <i>Advisor:  Dr. Alyssa Goodman <br> Harvard-Smithsonian Astrophysical Observatory REU Program </i> </sup> 
 
-We've created a map of magnetic fields over the surface of the Local Bubble, which is the first map of its kind to fully map magnetic fields in 3-D over an observed superbubble.  More soon!
+We've created a map of magnetic fields over the surface of the Local Bubble, which is the first map of its kind to fully map magnetic fields in 3D over an observed superbubble.  More soon!
 
-<blockquote class="embedly-card"><h4><a href="https://www.youtube.com/watch?v=dv1tnsRfHTo">Local Bubble B Field in 3D</a></h4><p>Uploaded by Theo O'Neill on 2022-10-30.</p></blockquote>
+<blockquote class="embedly-card" data-card-align="left"><h4><a href="https://www.youtube.com/watch?v=dv1tnsRfHTo">Local Bubble B Field in 3D</a></h4><p>Uploaded by Theo O'Neill on 2022-10-30.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <br>
