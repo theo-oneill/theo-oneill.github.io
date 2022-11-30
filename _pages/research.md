@@ -12,7 +12,7 @@ author_profile: true
 ## Mapping the Local Bubble's Magnetic Field in 3D
 <sup> <i>Advisor:  Dr. Alyssa Goodman <br> Harvard-Smithsonian Center for Astrophysics REU Program </i> </sup> 
 
-We've created a map of magnetic fields over the surface of the Local Bubble (a large cavity that triggered star formation in the nearby interstellar medium), which is the first  to fully map 3D magnetic fields over an observed superbubble.  More soon!
+We've created a 3D map of magnetic fields over the surface of the Local Bubble (a large cavity that triggered star formation in the nearby interstellar medium).  More soon!
 
 <blockquote class="embedly-card" data-card-align="left"><h4><a href="https://www.youtube.com/watch?v=dv1tnsRfHTo">Local Bubble B Field in 3D</a></h4><p>Uploaded by Theo O'Neill on 2022-10-30.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
@@ -22,7 +22,7 @@ We've created a map of magnetic fields over the surface of the Local Bubble (a l
 
 <hr style = 'background-color:#CCCAC9  ; border-width:0; color:#CCCAC9; height:1px; width:100%;' />
 ## Molecular Clouds in Low-Metallicity Environments 
-<sup> <i>Advisor:  Dr. Rémy Indebetouw </i> </sup> 
+<sup> <i>Advisor:  Dr. Rémy Indebetouw (UVA) </i> </sup> 
 
 <blockquote class="embedly-card" data-card-align="left"><h4><a href="https://ui.adsabs.harvard.edu/abs/2022ApJ...938...82O/abstract">Sequential Star Formation in the Young SMC Region NGC 602: Insights from ALMA</a></h4><p>NGC 602 is a young, low-metallicity star cluster in the "Wing" of the Small Magellanic Cloud. We reveal the recent evolutionary past of the cluster through analysis of high-resolution (~0.4 pc) Atacama Large Millimeter/submillimeter Array observations of molecular gas in the associated H II region N90.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
@@ -34,7 +34,7 @@ We've created a map of magnetic fields over the surface of the Local Bubble (a l
 <br>
 
 <hr style = 'background-color:#CCCAC9  ; border-width:0; color:#CCCAC9; height:1px; width:100%;' />
-## Power-law Fitting Methods and The Core Mass Function
+## Characterizing the Galactic Core Mass Function
 <sup> <i>Advisors:  Dr. Jonathan Tan and Dr. Giuliana Cosentino <br> Virginia-Chalmers Initiatives on Cosmic Origins (VICO-CICO) Undergraduate Research Fellowship    </i> </sup> 
 
 
