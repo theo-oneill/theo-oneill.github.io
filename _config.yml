@@ -76,8 +76,8 @@ analytics:
   provider               :  "google" # false (default), "google", "google-universal", "custom"
   google:
   tracking_id : G-88ENGWHX6Z
-  google_analytics: G-88ENGWHX6Z 
-  	property: G-88ENGWHX6Z
+  google_analytics: G-88ENGWHX6Z
+  property: G-88ENGWHX6Z
 
 extra:
   analytics:
