@@ -47,9 +47,8 @@ We've created a 3D map of magnetic fields over the surface of the Local Bubble (
 ## Renovation of the Thacher Observatory
 <sup> <i>Advisor:  Dr. Jon Swift <br> 
 
-<blockquote class="embedly-card"  data-card-align="left"><h4><a href="https://ui.adsabs.harvard.edu/abs/2022PASP..134c5005S/abstract">The Renovated Thacher Observatory and First Science Results</a></h4><p>Located on the campus of the Thacher School in Southern California, the Thacher Observatory has a legacy of astronomy research and education that dates back to the late 1950s. In 2016, the observatory was fully renovated with upgrades including a new 0.7 m telescope, a research grade camera, and a slit dome with full automation capabilities.</p></blockquote>
+<blockquote class="embedly-card" data-card-align="left"><h4><a href="https://ui.adsabs.harvard.edu/abs/2016AAS...22714616O/abstract">The Renovation and Future Capabilities of the Thacher Observatory</a></h4><p>The Thacher School is in the process of renovating the campus observatory with a new meter class telescope and full automation capabilities for the purpose of scientific research and education. New equipment on site has provided a preliminary site characterization including seeing and V-band sky brightness measurements.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-
 
 <blockquote class="embedly-card" data-card-align="left"><h4><a href="https://ui.adsabs.harvard.edu/abs/2018AAS...23232305S/abstract">Nearby Type Ia Supernova Follow-up at the Thacher Observatory</a></h4><p>Type Ia supernovae (SN Ia) provide an effective way to study the expansion of the universe through analyses of their photometry and spectroscopy. The interpretation of high-redshift SN Ia is dependent on accurate characterization of nearby, low-redshift targets. To help build up samples of nearby SN Ia, the Thacher Observatory has begun a photometric follow-up program in 4 photometric bands.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
