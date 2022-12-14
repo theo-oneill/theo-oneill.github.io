@@ -11,10 +11,6 @@ author_profile: true
 <blockquote class="embedly-card"  data-card-align="left" data-card-width="80%"><h4><a href="https://phys.org/news/2022-09-young-cluster-ngc-alma.html">Young open cluster NGC 602 inspected with ALMA</a></h4><p>Using the Atacama Large Millimeter/submillimeter Array (ALMA), astronomers have investigated a young open cluster in the Small Magellanic Cloud (SMC), known as NGC 602. Results of the research, presented August 29 on the arXiv pre-print server, deliver important insights into the properties of this cluster, revealing that it experienced a sequential star formation process.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card"  data-card-align="left" data-card-width="80%"><h4><a href="https://curiosmos.com/astronomers-alma-peer-into-smc-sparkling-open-cluster/">Astronomers Use ALMA to Peer Into the SMC's Sparkling Open Cluster</a></h4><p>An open cluster, NGC 602, in the Small Magellanic Cloud (SMC), has been studied by astronomers using the Atacama Large Millimeter/submillimeter Array (ALMA). An article published in the arXiv preprint server revealed that this cluster exhibited sequential star formation, a crucial insight into its properties. Stars are concentrated in three main condensations in NGC 602.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8" ></script>
-
-
 <blockquote class="embedly-card"  data-card-align="left" data-card-width="80%"><h4><a href="https://news.virginia.edu/content/uva-astronomy-student-joins-ranks-astronaut-scholars">UVA Astronomy Student Joins Ranks of Astronaut Scholars</a></h4><p>Astronomy-physics and statistics major Theo O'Neill explores star formation in nearby dwarf galaxies as an Astronaut Scholar.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
