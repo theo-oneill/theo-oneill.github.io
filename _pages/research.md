@@ -12,10 +12,7 @@ author_profile: true
 ## Mapping the Local Bubble's Magnetic Field in 3D
 <sup> <i>Advisor:  Prof. Alyssa Goodman <br> Harvard-Smithsonian Center for Astrophysics REU Program </i> </sup> 
 
-We've created a 3D map of magnetic fields over the surface of the Local Bubble (a large cavity that triggered star formation in the nearby interstellar medium).  More soon!
-
-<blockquote class="embedly-card" data-card-align="left"><h4><a href="https://www.youtube.com/watch?v=dv1tnsRfHTo">Local Bubble B Field in 3D</a></h4><p>Uploaded by Theo O'Neill on 2022-10-30.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+We've created the first 3D map of magnetic fields over the surface of the Local Bubble, a superbubble that triggered star formation in the nearby interstellar medium.  More soon!
 
 <br>
 
