@@ -7,15 +7,6 @@ author_profile: true
 #  - /resume
 ---
 
-<hr style = 'background-color:#CCCAC9  ; border-width:0; color:#CCCAC9; height:1px; width:100%;' />
-
-<---!## Mapping the Local Bubble's Magnetic Field in 3D
-<sup> <i>Advisor:  Prof. Alyssa Goodman <br> Harvard-Smithsonian Center for Astrophysics REU Program </i> </sup> 
-
-We've created the first 3D map of magnetic fields over the surface of the Local Bubble, a superbubble that triggered star formation in the nearby interstellar medium.  More soon!
-
-<br> --->
-
 
 <hr style = 'background-color:#CCCAC9  ; border-width:0; color:#CCCAC9; height:1px; width:100%;' />
 ## Molecular Clouds in Low-Metallicity Environments 
