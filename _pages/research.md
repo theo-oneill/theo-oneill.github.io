@@ -12,7 +12,7 @@ author_profile: true
 ## Mapping the Local Bubble's Magnetic Field in 3D
 <sup> <i>Advisor:  Prof. Alyssa Goodman <br> Harvard-Smithsonian Center for Astrophysics REU Program </i> </sup> 
 
-We've created the first 3D map of magnetic fields over the surface of the Local Bubble, a superbubble that triggered star formation in the nearby interstellar medium.  A press conference at the 241st AAS meeting will take place on Wednesday, January 11th 2023 at 10:15 am PST, and can be watched live through the [AAS Press Office YouTube channel](https://www.youtube.com/c/AASPressOffice).
+We've created the first 3D map of magnetic fields over the surface of the Local Bubble, a superbubble that triggered star formation in the nearby interstellar medium.  A press conference will take place at the 241st AAS meeting on Wednesday, January 11th 10:15 am PST, and can be watched live through the [AAS Press Office YouTube channel](https://www.youtube.com/c/AASPressOffice).
 
 <br> 
 
