@@ -11,10 +11,12 @@ author_profile: true
   <blockquote class="embedly-card" data-card-align="left" data-card-width="80%"><h4><a href="https://cfa.harvard.edu/news/cosmic-superbubbles-magnetic-field-charted-3d-first-time">Cosmic Superbubble's Magnetic Field Charted in 3D for the First Time</a></h4><p>Seattle, WA – Astronomers at the Center for Astrophysics | Harvard & Smithsonian (CfA) have unveiled a first-of-its-kind map that could help answer decades-old questions about the origins of stars and the influences of magnetic fields in the cosmos.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-<blockquote class="embedly-card" data-card-align="left" data-card-width="80%"><h4><a href="https://www.vice.com/en/article/qjkqbq/we-exist-inside-a-giant-space-bubble-and-scientists-have-finally-mapped-it">We Exist Inside a Giant Space Bubble, And Scientists Have Finally Mapped It</a></h4><p>Cosmic superbubbles have remained fairly mysterious for decades, but recent astronomical advances have finally exposed key details about their evolution and structure. Just within the past few years, researchers have mapped the geometry of the Local Bubble in three dimensions and demonstrated that its surface is an active site of star birth, because it captures gas and dust as it expands into space. </p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <blockquote class="embedly-card" data-card-align="left" data-card-width="80%"><h4><a href="https://www.space.com/local-bubble-first-3d-magnetic-field-map">Astronomers make 1st-ever 3D map of Local Bubble's magnetic fields</a></h4><p>Interstellar cartographers have for the first time mapped in 3D the magnetic field swept up by the Local Bubble. The Local Bubble is a cavity at least 1,000 light-years wide in the interstellar gas around the solar system - a 'superbubble' in interstellar space.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+
+<blockquote class="embedly-card" data-card-align="left" data-card-width="80%"><h4><a href="https://www.vice.com/en/article/qjkqbq/we-exist-inside-a-giant-space-bubble-and-scientists-have-finally-mapped-it">We Exist Inside a Giant Space Bubble, And Scientists Have Finally Mapped It</a></h4><p>Cosmic superbubbles have remained fairly mysterious for decades, but recent astronomical advances have finally exposed key details about their evolution and structure. Just within the past few years, researchers have mapped the geometry of the Local Bubble in three dimensions and demonstrated that its surface is an active site of star birth, because it captures gas and dust as it expands into space. </p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 
