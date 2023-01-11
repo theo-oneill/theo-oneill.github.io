@@ -13,3 +13,5 @@ I'm a research assistant at the Center for Astrophysics I Harvard & Smithsonian.
 
 I received my B.S. in Astronomy-Physics & Statistics from the University of Virginia in December 2022.  I grew up in the San Francisco Bay Area, and in my free time can usually be found hiking, backpacking, and climbing.
 
+To learn more about the Local Bubble's 3D Magnetic Field, please visit [http://tinyurl.com/local-bubble-b](http://tinyurl.com/local-bubble-b).
+
