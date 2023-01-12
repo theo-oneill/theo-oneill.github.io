@@ -16,6 +16,12 @@ author_profile: true
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 
+
+  <blockquote class="embedly-card" data-card-align="left" data-card-width="80%"><h4><a href="https://skyandtelescope.org/astronomy-news/3d-magnetic-map-of-the-local-bubble/">A 3D Map of the Local Bubble</a></h4><p>Long ago, supernovae blew out a gigantic bubble, sweeping up interstellar gas into what is now a 1,000 light-year-wide shell. The Sun, purely by chance, sits near its center. A new map of the magnetic field along this shell may help astronomers understand the origin of this Local Bubble as well as the role of such structures in galaxy evolution.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+
+
 <blockquote class="embedly-card" data-card-align="left" data-card-width="80%"><h4><a href="https://www.space.com/local-bubble-first-3d-magnetic-field-map">Astronomers make 1st-ever 3D map of Local Bubble's magnetic fields</a></h4><p>Interstellar cartographers have for the first time mapped in 3D the magnetic field swept up by the Local Bubble. The Local Bubble is a cavity at least 1,000 light-years wide in the interstellar gas around the solar system - a 'superbubble' in interstellar space.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
@@ -26,6 +32,9 @@ author_profile: true
 
 
 <blockquote class="embedly-card" data-card-align="left" data-card-width="80%"><h4><a href="https://news.virginia.edu/content/were-living-space-bubble-undergrad-sculpted-its-magnetic-shape">We're Living in a Space Bubble. An Undergrad Sculpted Its Magnetic Shape</a></h4><p>Theo O'Neill spent the summer at Harvard and mapped the magnetic surface of the thousand-light-years-wide "Local Bubble."</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+<blockquote class="embedly-card"  data-card-align="left" data-card-width="80%"><h4><a href="https://www.inverse.com/science/local-bubble-magnetic-field-map">Look: Astronomers chart magnetic fields surrounding Earth's Local Bubble</a></h4><p>Home Sweet Home The invisible force shaping our corner of the Universe. Theo O'Neill/Milkyway3d.org team Despite it being home to every human who's ever lived, we still know very little about the Milky Way - including how stars are distributed throughout the galaxy. NASA/JPL-Caltech/R.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 
