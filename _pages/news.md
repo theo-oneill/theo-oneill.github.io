@@ -17,7 +17,7 @@ author_profile: true
 
 
 
-  <blockquote class="embedly-card" data-card-align="left" data-card-width="80%"><h4><a href="https://skyandtelescope.org/astronomy-news/3d-magnetic-map-of-the-local-bubble/">A 3D Map of the Local Bubble</a></h4><p>Long ago, supernovae blew out a gigantic bubble, sweeping up interstellar gas into what is now a 1,000 light-year-wide shell. The Sun, purely by chance, sits near its center. A new map of the magnetic field along this shell may help astronomers understand the origin of this Local Bubble as well as the role of such structures in galaxy evolution.</p></blockquote>
+  <blockquote class="embedly-card" data-card-align="left" data-card-width="80%"><h4><a href="https://skyandtelescope.org/astronomy-news/3d-magnetic-map-of-the-local-bubble/">A 3D Magnetic Map of the Local Bubble</a></h4><p>Long ago, supernovae blew out a gigantic bubble, sweeping up interstellar gas into what is now a 1,000 light-year-wide shell. The Sun, purely by chance, sits near its center. A new map of the magnetic field along this shell may help astronomers understand the origin of this Local Bubble as well as the role of such structures in galaxy evolution.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 
