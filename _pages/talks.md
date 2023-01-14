@@ -14,7 +14,8 @@ author_profile: true
 
 <h3> 2022 SAO REU Symposium: Mapping the Local Bubble's Magnetic Field in 3D </h3>
 
-<blockquote class="embedly-card"  data-card-align="left"><h4><a href="https://youtu.be/WKYNgaVzHuI">SAO REU Talk: Mapping the Local Bubble's Magnetic Field in 3D</a></h4><p>null</p></blockquote>
+
+<blockquote class="embedly-card" data-card-align="left"><h4><a href="https://www.youtube.com/watch?v=D7xrNqvp7Uw">Summer REU Students - Final Presentations</a></h4><p>The 2022 Science symposium for the CfA NSF Astrophysics interns. Today we will hear from (in this order) Alex DelFranco, Arianna Dwomoh, Rachel Hemmer, Courtney Carreira, Theo O'Neill, Anna Fehr, Seth Larner, Sarai Rankin, Madi VanWyngarden, Mckenzie Ferrari, and Will Golay, as they describe the research project they have carried out under the auspices of NSF's Research Experiences for Undergraduate (REU) program during the last 10 weeks under the guidance of a CfA advisor or advising team, and present their results.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <hr style = 'background-color:#CCCAC9  ; border-width:0; color:#CCCAC9; height:1px; width:100%;' />
