@@ -10,7 +10,7 @@ author_profile: true
 <hr style = 'background-color:#CCCAC9  ; border-width:0; color:#CCCAC9; height:1px; width:100%;' />
 
 ## Mapping the Local Bubble's Magnetic Field in 3D
-<sup> <i>Advisor:  Prof. Alyssa Goodman <br> Harvard-Smithsonian Center for Astrophysics REU Program </i> </sup> 
+<sup> <i>Advisor:  Prof. Alyssa Goodman  </i> </sup> 
 
 We've created the first 3D map of magnetic fields over the surface of the Local Bubble, a superbubble that triggered star formation in the nearby interstellar medium.  A press conference took place at the 241st AAS meeting in January 2023, and can be watched through the [AAS Press Office YouTube channel](https://www.youtube.com/watch?v=CeRtJnbCBOw).
 
@@ -21,7 +21,7 @@ We've created the first 3D map of magnetic fields over the surface of the Local 
 
 <hr style = 'background-color:#CCCAC9  ; border-width:0; color:#CCCAC9; height:1px; width:100%;' />
 ## Molecular Clouds in Low-Metallicity Environments 
-<sup> <i>Advisor:  Prof. Rémy Indebetouw (UVA) </i> </sup> 
+<sup> <i>Advisor:  Prof. Rémy Indebetouw </i> </sup> 
 
 <blockquote class="embedly-card" data-card-align="left"><h4><a href="https://ui.adsabs.harvard.edu/abs/2022ApJ...938...82O/abstract">Sequential Star Formation in the Young SMC Region NGC 602: Insights from ALMA</a></h4><p>NGC 602 is a young, low-metallicity star cluster in the "Wing" of the Small Magellanic Cloud. We reveal the recent evolutionary past of the cluster through analysis of high-resolution (~0.4 pc) Atacama Large Millimeter/submillimeter Array observations of molecular gas in the associated H II region N90.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
@@ -34,7 +34,7 @@ We've created the first 3D map of magnetic fields over the surface of the Local 
 
 <hr style = 'background-color:#CCCAC9  ; border-width:0; color:#CCCAC9; height:1px; width:100%;' />
 ## Characterizing the Galactic Core Mass Function
-<sup> <i>Advisors:  Prof. Jonathan Tan and Dr. Giuliana Cosentino <br> Virginia-Chalmers Initiatives on Cosmic Origins (VICO-CICO) Undergraduate Research Fellowship    </i> </sup> 
+<sup> <i>Advisors:  Prof. Jonathan Tan and Dr. Giuliana Cosentino  </i> </sup> 
 
 
 <blockquote class="embedly-card"  data-card-align="left"><h4><a href="https://ui.adsabs.harvard.edu/abs/2021ApJ...916...45O/abstract">The Core Mass Function across Galactic Environments. III. Massive Protoclusters</a></h4><p>The stellar initial mass function (IMF) is fundamental for many areas of astrophysics, but its origin remains poorly understood. It may be inherited from the core mass function (CMF) or arise as a result of more chaotic, competitive accretion.</p></blockquote>
