@@ -1,4 +1,4 @@
-theo---
+---
 permalink: /
 
 author_profile: true
