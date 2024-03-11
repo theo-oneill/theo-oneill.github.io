@@ -9,6 +9,12 @@ author_profile: true
 
 <hr style = 'background-color:#CCCAC9  ; border-width:0; color:#CCCAC9; height:1px; width:100%;' />
 
+## The Local Bubble is a Local Chimney
+
+<blockquote class="embedly-card" data-card-align="left"><h4><a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240304961O/abstract">The Local Bubble is a Local Chimney: A New Model from 3D Dust Mapping</a></h4><p>Leveraging a high-resolution 3D dust map of the solar neighborhood from Edenhofer et al. (2023), we derive a new 3D model for the dust-traced surface of the Local Bubble, the supernova-driven cavity surrounding the Sun.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+
 ## Mapping the Local Bubble's Magnetic Field in 3D
 
 To learn more, please visit [http://tinyurl.com/local-bubble-b](http://tinyurl.com/local-bubble-b).
