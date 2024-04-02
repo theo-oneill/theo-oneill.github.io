@@ -23,6 +23,7 @@ To learn more, please visit [http://tinyurl.com/local-bubble-b](http://tinyurl.c
 
 
 <hr style = 'background-color:#CCCAC9  ; border-width:0; color:#CCCAC9; height:1px; width:100%;' />
+
 ## Molecular Clouds in Low-Metallicity Environments 
 
 <blockquote class="embedly-card" data-card-align="left"><h4><a href="https://ui.adsabs.harvard.edu/abs/2022ApJ...938...82O/abstract">Sequential Star Formation in the Young SMC Region NGC 602: Insights from ALMA</a></h4><p>NGC 602 is a young, low-metallicity star cluster in the "Wing" of the Small Magellanic Cloud. We reveal the recent evolutionary past of the cluster through analysis of high-resolution (~0.4 pc) Atacama Large Millimeter/submillimeter Array observations of molecular gas in the associated H II region N90.</p></blockquote>
@@ -35,6 +36,7 @@ To learn more, please visit [http://tinyurl.com/local-bubble-b](http://tinyurl.c
 <br>
 
 <hr style = 'background-color:#CCCAC9  ; border-width:0; color:#CCCAC9; height:1px; width:100%;' />
+
 ## Characterizing the Galactic Core Mass Function
 
 
@@ -44,6 +46,7 @@ To learn more, please visit [http://tinyurl.com/local-bubble-b](http://tinyurl.c
 <br>
 
 <hr style = 'background-color:#CCCAC9  ; border-width:0; color:#CCCAC9; height:1px; width:100%;' />
+
 ## Renovation of the Thacher Observatory
 
 <blockquote class="embedly-card" data-card-align="left"><h4><a href="https://ui.adsabs.harvard.edu/abs/2016AAS...22714616O/abstract">The Renovation and Future Capabilities of the Thacher Observatory</a></h4><p>The Thacher School is in the process of renovating the campus observatory with a new meter class telescope and full automation capabilities for the purpose of scientific research and education. New equipment on site has provided a preliminary site characterization including seeing and V-band sky brightness measurements.</p></blockquote>
