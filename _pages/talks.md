@@ -7,7 +7,13 @@ author_profile: true
 
 <hr style = 'background-color:#CCCAC9  ; border-width:0; color:#CCCAC9; height:1px; width:100%;' />
 
-<h3> 2023 AAS 241 Press Conference: A 3D Map of the Local Bubble's Magnetic Field </h3>
+
+<h3> Multiphase Madness @ Harvard CfA: The Topology of the Local Disk-Halo Interface </h3>
+<blockquote class="embedly-card" data-card-align="left"><h4><a href="https://www.youtube.com/watch?v=izEnWScEOWI">Theo O'Neill: The Topology of the Local Disk-Halo Interface </a></h4><p>Title: The Topology of the Local Disk-Halo Interface</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+
+<h3> AAS 241 Press Conference: A 3D Map of the Local Bubble's Magnetic Field </h3>
 <blockquote class="embedly-card" data-card-align="left"><h4><a href="https://www.youtube.com/watch?v=CeRtJnbCBOw">AAS 241 Press Conference: Building Systems in Our Local Universe</a></h4><p>AAS 241 Press Conference: Building Systems in Our Local Universe Wednesday, 11 January 2023, 10:15 am PST</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
