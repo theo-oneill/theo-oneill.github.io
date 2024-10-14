@@ -13,6 +13,11 @@ author_profile: true
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 
+<h3> Gloucester Area Astronomy Club: Mapping the Bubbly 3D Milky Way </h3>
+<blockquote class="embedly-card" data-card-align="left"><h4><a href=https://www.youtube.com/watch?v=M8IB88ixlkU">GAAC Oct 10 2024 </a></h4><p>At this month's GAAC meeting, Friday 10/11, CfA doctoral candidate Theo O'Neill adds a chapter to the story of our home galaxy, in "Mapping the Bubbly 3D Milky Way."   We live in a giant, 1,000-light-year-wide region in space called the Local Bubble, formed millions of years ago by exploding stars. With new data from space telescopes, and the power of data science, astronomers now understand that our Local Bubble is just one of thousands of such bubbles that shape the Milky Way galaxy.  In this talk we explore recent discoveries about the 3D structure of the Milky Way, and focus on the dynamic relationship between the Local Bubble and neighboring bubbles, stars, and interstellar clouds in our own solar neighborhood.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+
 <h3> AAS 241 Press Conference: A 3D Map of the Local Bubble's Magnetic Field </h3>
 <blockquote class="embedly-card" data-card-align="left"><h4><a href="https://www.youtube.com/watch?v=CeRtJnbCBOw">AAS 241 Press Conference: Building Systems in Our Local Universe</a></h4><p>AAS 241 Press Conference: Building Systems in Our Local Universe Wednesday, 11 January 2023, 10:15 am PST</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
