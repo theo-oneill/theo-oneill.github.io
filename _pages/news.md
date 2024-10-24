@@ -11,10 +11,6 @@ author_profile: true
   <blockquote class="embedly-card" data-card-align="left" data-card-width="80%"><h4><a href="https://cfa.harvard.edu/news/cosmic-superbubbles-magnetic-field-charted-3d-first-time">Cosmic Superbubble's Magnetic Field Charted in 3D for the First Time</a></h4><p>Seattle, WA – Astronomers at the Center for Astrophysics | Harvard & Smithsonian (CfA) have unveiled a first-of-its-kind map that could help answer decades-old questions about the origins of stars and the influences of magnetic fields in the cosmos.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
-
-<blockquote class="embedly-card" data-card-align="left" data-card-width="80%"><h4><a href="https://www.vice.com/en/article/we-exist-inside-a-giant-space-bubble-and-scientists-have-finally-mapped-it/">We Exist Inside a Giant Space Bubble, And Scientists Have Finally Mapped It</a></h4><p>Cosmic superbubbles have remained fairly mysterious for decades, but recent astronomical advances have finally exposed key details about their evolution and structure. Just within the past few years, researchers have mapped the geometry of the Local Bubble in three dimensions and demonstrated that its surface is an active site of star birth, because it captures gas and dust as it expands into space. </p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-
 <blockquote class="embedly-card" data-card-align="left" data-card-width="80%"><h4><a href="https://news.virginia.edu/content/were-living-space-bubble-undergrad-sculpted-its-magnetic-shape">We're Living in a Space Bubble. An Undergrad Sculpted Its Magnetic Shape</a></h4><p>Theo O'Neill spent the summer at Harvard and mapped the magnetic surface of the thousand-light-years-wide "Local Bubble."</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
