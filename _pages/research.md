@@ -16,7 +16,6 @@ author_profile: true
 
 <blockquote class="embedly-card" data-card-align="left"><h4><a href="https://ui.adsabs.harvard.edu/abs/2024arXiv241017341O/abstract">A 3D Model of the Local Bubble's Magnetic Field: Insights from Dust and Starlight Polarization</a></h4><p>Clustered stellar feedback creates expanding voids in the magnetized interstellar medium known as superbubbles. Although theory suggests that superbubble expansion is influenced by interstellar magnetic fields, direct observational data on 3D superbubble magnetic field geometry is limited.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-]
 
 <hr style = 'background-color:#CCCAC9  ; border-width:0; color:#CCCAC9; height:1px; width:100%;' />
 
