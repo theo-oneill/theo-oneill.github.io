@@ -11,7 +11,7 @@ author_profile: true
 
 ## The Local Bubble
 
-<blockquote class="embedly-card" data-card-align="left"><h4><a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240304961O/abstract">The Local Bubble is a Local Chimney: A New Model from 3D Dust Mapping</a></h4><p>Leveraging a high-resolution 3D dust map of the solar neighborhood from Edenhofer et al. (2023), we derive a new 3D model for the dust-traced surface of the Local Bubble, the supernova-driven cavity surrounding the Sun.</p></blockquote>
+<blockquote class="embedly-card" data-card-align="left"><h4><a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240304961O/abstract">The Local Bubble is a Local Chimney: A New Model from 3D Dust Mapping</a></h4><p>Leveraging a high-resolution 3D dust map of the solar neighborhood from Edenhofer et al., we derive a new 3D model for the dust-traced surface of the Local Bubble, the supernova-driven cavity surrounding the Sun.</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <blockquote class="embedly-card" data-card-align="left"><h4><a href="https://ui.adsabs.harvard.edu/abs/2024arXiv241017341O/abstract">A 3D Model of the Local Bubble's Magnetic Field: Insights from Dust and Starlight Polarization</a></h4><p>Clustered stellar feedback creates expanding voids in the magnetized interstellar medium known as superbubbles. Although theory suggests that superbubble expansion is influenced by interstellar magnetic fields, direct observational data on 3D superbubble magnetic field geometry is limited.</p></blockquote>
